@@ -11,11 +11,11 @@ echo
 sleep 2
 echo "$cy [•]═════════════════════════════════════[•]"
 sleep 2
-echo "$ku    ︻̷̿┻̿═━••    AUTHOR : MR KALIT09"
+echo "$ku    ︻̷̿┻̿═━••    AUTHOR : MR GEMBOR"
 sleep 2
-echo "$ku    ︻̷̿┻̿═━••  WHATSAAP:0822-7780-4293"
+echo "$ku    ︻̷̿┻̿═━••  WHATSAAP : +62 838-1609-9745"
 sleep 2
-echo "$ku    ︻̷̿┻̿═━••https://github.com/MRKALIT09"
+echo "$ku    ︻̷̿┻̿═━••https://github.com/MRGEMBOR"
 sleep 2
 echo "$cy [•]═════════════════════════════════════[•]"
 sleep 2
